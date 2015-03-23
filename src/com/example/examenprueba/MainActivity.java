@@ -7,9 +7,13 @@ import android.view.MenuItem;
 
 
 public class MainActivity extends Activity {
+<<<<<<< HEAD
 
 //BRANCA2
 
+=======
+//BRANCA2 alelele
+>>>>>>> BRANCA2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
